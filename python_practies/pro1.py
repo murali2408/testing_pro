@@ -6,5 +6,5 @@ values.append([2,2,2])
 
 values.extend([3,34,21])
 print(values)
-values.remove(5)
+values.remove(6)
 print(values)
